@@ -1,11 +1,5 @@
 # Sany - An eCommerce Website
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/Sany-ecommerce-website)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/Sany-ecommerce-website?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/Sany-ecommerce-website?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
-
 Sany is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
@@ -26,18 +20,18 @@ To install **Sany**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/Sany-ecommerce-website.git
+sudo git clone https://github.com/sanygit/sany-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/Sany-ecommerce-website.git
+git clone https://github.com/sanygit/sany-ecommerce-website.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact me you can reach me at just comment.
 
 ## License
 
